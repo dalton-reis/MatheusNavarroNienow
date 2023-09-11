@@ -1,0 +1,14 @@
+CIDADANIAAR - JOGO DE PUZZLE UTILIZANDO REALIDADE AUMENTADA COM ILUSÃO DE ÓTICA
+
+Programas utilizados:
+
+Unity v2019.2.5f1
+Blender v2.80
+JetBrains Rider v2019.2.2
+
+A princípio não é necessário fazer nada de especial para rodar o projeto. Apenas deve-se utilizar a versão compatível do Unity, fazer a build e rodar o aplicativo.
+O target deve ser um dispositivo Android.
+
+A cena principal é: Menu.
+As cenas Demo1, Demo2, Demo3 e DotProductTest foram testes de desenvolvimento, não estão na build final do jogo.
+Na build final devem estar incluídas as cenas: Menu, TrainingLevel, MonkeyLevel e BridgeLevel.
